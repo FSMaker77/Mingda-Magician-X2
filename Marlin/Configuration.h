@@ -23,7 +23,7 @@
 
 // 选择机器型号
 // #define R3_PRO    // R3_pro:max
-#define R4_PRO    // R4_pro:pro
+#define R4_PRO    // Magician X2
 
 // 使用了st芯片
 // #define ST32_SHIP
@@ -146,7 +146,7 @@
 #ifdef OTHER_CUSTOM
   #define STRING_CONFIG_H_AUTHOR "(3D-printer)" // Who made the changes.
 #else
-  #define STRING_CONFIG_H_AUTHOR "(MingDa)" // Who made the changes.
+  #define STRING_CONFIG_H_AUTHOR "(FSMaker)" // Who made the changes.
 #endif
 //#define CUSTOM_VERSION_FILE Version.h // Path from the root directory (no quotes)
 
